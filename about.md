@@ -4,7 +4,7 @@ title: References
 permalink: /references/
 ---
 
-## Content:
+## Content
 
 * [Time](http://time.com/4229987/obama-black-lives-matter-meeting/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Foreign_policy_of_the_Barack_Obama_administration)
@@ -16,14 +16,16 @@ permalink: /references/
 * [Foreign Affairs Journal](https://www.foreignaffairs.com/articles/asia/obama-and-asia)
 * [The Diplomat](https://thediplomat.com)
 
-## Statistics:
+---
+
+## Statistics
 
 * [HRC](http://www.hrc.org/state-maps)
 * [Fact-Check](http://www.factcheck.org/2017/09/obamas-final-numbers/)
 
 ---
 
-## Images:
+## Images
 
 All images have been source from [Google Images](https://images.google.com) after scouring through several topics.
 
