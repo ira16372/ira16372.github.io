@@ -14,6 +14,7 @@ permalink: /references/
 * [The Atlantic](https://www.theatlantic.com/international/archive/2016/04/obamas-worst-mistake-libya/478461/)
 * [Foreign Policy Magazine](http://foreignpolicy.com/)
 * [Foreign Affairs Journal](https://www.foreignaffairs.com/articles/asia/obama-and-asia)
+* [Reuters](https://in.reuters.com/)
 * [The Diplomat](https://thediplomat.com)
 
 ---
@@ -22,6 +23,7 @@ permalink: /references/
 
 * [HRC](http://www.hrc.org/state-maps)
 * [Fact-Check](http://www.factcheck.org/2017/09/obamas-final-numbers/)
+* [The Hindu](http://www.thehindu.com/)
 
 ---
 
