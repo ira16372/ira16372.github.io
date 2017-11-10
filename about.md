@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Refrences
-permalink: /about/
+title: References
+permalink: /references/
 ---
 
 ## Content:
